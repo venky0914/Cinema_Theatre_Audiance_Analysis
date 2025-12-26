@@ -1,0 +1,301 @@
+State,City,Theatre_ID,Date,Show_Time,Movie_Genre,Movie_Type,Ticket_Price_INR,Seats_Available,Seats_Occupied,Queue_Time_Minutes,Snack_Purchased,Snack_Spend_INR,Customer_Type,Weather,Day_Type,Total_Seats,Ticket_Price_Range,Quarter
+Telangana,Hyderabad,13.0,2024-01-01,Morning,Action,Non-Blockbuster,150.0,80.0,180.0,15.0,No,400.0,Individual,Rainy,Weekday,260.0,Low,2024Q1
+Tamil Nadu,Vijayawada,80.0,2024-01-02,Morning,Action,Blockbuster,150.0,200.0,100.0,5.0,No,120.0,Family,Hot,Weekend,300.0,Low,2024Q1
+West Bengal,Mumbai,56.0,2024-01-03,Morning,Thriller,Non-Blockbuster,180.0,150.0,180.0,5.0,No,250.0,Family,Rainy,Weekday,330.0,Low,2024Q1
+Telangana,Delhi,92.0,2024-01-04,Morning,Comedy,Blockbuster,202.3783783783784,150.0,128.51351351351352,5.0,Yes,250.0,Family,Hot,Weekday,278.51351351351354,Medium,2024Q1
+Karnataka,Mumbai,12.0,2024-01-05,Morning,Action,Blockbuster,150.0,200.0,128.51351351351352,5.0,No,250.0,Family,Normal,Weekday,328.51351351351354,Low,2024Q1
+Telangana,Vijayawada,37.0,2024-01-06,Afternoon,Romance,Non-Blockbuster,202.3783783783784,141.70103092783506,260.0,2.0,No,120.0,Family,Hot,Weekday,401.70103092783506,Medium,2024Q1
+Tamil Nadu,Kochi,15.0,2024-01-07,Night,Comedy,Blockbuster,202.3783783783784,200.0,100.0,15.0,No,400.0,Individual,Hot,Weekend,300.0,Medium,2024Q1
+Delhi,Kolkata,11.0,2024-01-08,Night,Thriller,Blockbuster,180.0,150.0,60.0,5.0,Yes,400.0,Individual,Hot,Weekday,210.0,Low,2024Q1
+Tamil Nadu,Mumbai,59.0,2024-01-09,Evening,Action,Blockbuster,202.3783783783784,200.0,180.0,8.315,No,400.0,Family,Hot,Weekend,380.0,Medium,2024Q1
+Delhi,Chennai,41.0,2024-01-10,Afternoon,Action,Blockbuster,202.3783783783784,80.0,100.0,15.0,No,120.0,Family,Hot,Weekday,180.0,Medium,2024Q1
+Telangana,Kochi,36.0,2024-01-11,Afternoon,Romance,Blockbuster,300.0,141.70103092783506,128.51351351351352,15.0,Yes,247.02702702702703,Individual,Hot,Weekend,270.2145444413486,High,2024Q1
+Rajasthan,Kolkata,32.0,2024-01-12,Afternoon,Drama,Non-Blockbuster,250.0,200.0,30.0,8.315,Yes,250.0,Family,Hot,Weekend,230.0,High,2024Q1
+Andhra Pradesh,Jaipur,4.0,2024-01-13,Afternoon,Comedy,Blockbuster,202.3783783783784,141.70103092783506,60.0,8.315,No,250.0,Family,Hot,Weekday,201.70103092783506,Medium,2024Q1
+Andhra Pradesh,Chennai,93.0,2024-01-14,Afternoon,Comedy,Blockbuster,202.3783783783784,141.70103092783506,260.0,15.0,No,247.02702702702703,Individual,Hot,Weekend,401.70103092783506,Medium,2024Q1
+Kerala,Hyderabad,57.0,2024-01-15,Morning,Action,Blockbuster,202.3783783783784,141.70103092783506,30.0,15.0,No,250.0,Individual,Rainy,Weekend,171.70103092783506,Medium,2024Q1
+Rajasthan,Delhi,13.0,2024-01-16,Afternoon,Action,Blockbuster,202.3783783783784,150.0,30.0,8.315,No,400.0,Individual,Rainy,Weekend,180.0,Medium,2024Q1
+West Bengal,Ahmedabad,53.0,2024-01-17,Morning,Action,Non-Blockbuster,202.3783783783784,141.70103092783506,60.0,2.0,Yes,120.0,Family,Hot,Weekday,201.70103092783506,Medium,2024Q1
+West Bengal,Vijayawada,62.0,2024-01-18,Morning,Drama,Blockbuster,202.3783783783784,120.0,128.51351351351352,10.0,No,247.02702702702703,Family,Hot,Weekday,248.51351351351352,Medium,2024Q1
+West Bengal,Kolkata,60.0,2024-01-19,Night,Thriller,Blockbuster,180.0,141.70103092783506,100.0,15.0,No,250.0,Family,Rainy,Weekday,241.70103092783506,Low,2024Q1
+Maharashtra,Kochi,13.0,2024-01-20,Morning,Action,Non-Blockbuster,300.0,141.70103092783506,260.0,10.0,Yes,247.02702702702703,Family,Rainy,Weekend,401.70103092783506,High,2024Q1
+Maharashtra,Mumbai,25.0,2024-01-21,Evening,Romance,Blockbuster,300.0,141.70103092783506,100.0,10.0,Yes,247.02702702702703,Family,Hot,Weekday,241.70103092783506,High,2024Q1
+West Bengal,Vijayawada,31.0,2024-01-22,Night,Action,Blockbuster,180.0,141.70103092783506,128.51351351351352,8.315,Yes,120.0,Family,Hot,Weekend,270.2145444413486,Low,2024Q1
+Karnataka,Ahmedabad,9.0,2024-01-23,Morning,Comedy,Blockbuster,202.3783783783784,120.0,100.0,8.315,Yes,250.0,Individual,Hot,Weekday,220.0,Medium,2024Q1
+Gujarat,Vijayawada,67.0,2024-01-24,Morning,Comedy,Blockbuster,120.0,200.0,60.0,5.0,Yes,400.0,Family,Normal,Weekday,260.0,Low,2024Q1
+Rajasthan,Hyderabad,85.0,2024-01-25,Evening,Romance,Blockbuster,202.3783783783784,141.70103092783506,180.0,15.0,Yes,247.02702702702703,Family,Hot,Weekday,321.70103092783506,Medium,2024Q1
+Gujarat,Mumbai,98.0,2024-01-26,Evening,Action,Non-Blockbuster,202.3783783783784,150.0,180.0,8.315,No,250.0,Family,Hot,Weekday,330.0,Medium,2024Q1
+Kerala,Delhi,79.0,2024-01-27,Night,Thriller,Non-Blockbuster,120.0,200.0,260.0,8.315,No,250.0,Individual,Hot,Weekday,460.0,Low,2024Q1
+Andhra Pradesh,Mumbai,24.0,2024-01-28,Evening,Comedy,Blockbuster,250.0,150.0,128.51351351351352,2.0,Yes,120.0,Family,Hot,Weekday,278.51351351351354,High,2024Q1
+Tamil Nadu,Bengaluru,81.0,2024-01-29,Morning,Drama,Non-Blockbuster,202.3783783783784,80.0,128.51351351351352,8.315,No,247.02702702702703,Individual,Hot,Weekend,208.51351351351352,Medium,2024Q1
+Karnataka,Ahmedabad,53.0,2024-01-30,Night,Thriller,Blockbuster,180.0,200.0,180.0,5.0,Yes,400.0,Individual,Normal,Weekend,380.0,Low,2024Q1
+Tamil Nadu,Hyderabad,37.0,2024-01-31,Evening,Drama,Blockbuster,120.0,141.70103092783506,128.51351351351352,8.315,No,247.02702702702703,Individual,Hot,Weekend,270.2145444413486,Low,2024Q1
+Maharashtra,Kochi,84.0,2024-02-01,Night,Action,Non-Blockbuster,202.3783783783784,150.0,60.0,5.0,Yes,247.02702702702703,Individual,Normal,Weekday,210.0,Medium,2024Q1
+Kerala,Hyderabad,92.0,2024-02-02,Evening,Romance,Non-Blockbuster,120.0,120.0,60.0,10.0,Yes,250.0,Family,Normal,Weekday,180.0,Low,2024Q1
+Karnataka,Mumbai,34.0,2024-02-03,Night,Action,Blockbuster,150.0,150.0,100.0,8.315,No,120.0,Family,Hot,Weekday,250.0,Low,2024Q1
+Gujarat,Chennai,12.0,2024-02-04,Evening,Drama,Blockbuster,202.3783783783784,80.0,260.0,8.315,No,247.02702702702703,Family,Hot,Weekday,340.0,Medium,2024Q1
+West Bengal,Jaipur,55.0,2024-02-05,Morning,Thriller,Non-Blockbuster,250.0,200.0,128.51351351351352,8.315,Yes,247.02702702702703,Family,Hot,Weekday,328.51351351351354,High,2024Q1
+Gujarat,Delhi,41.0,2024-02-06,Morning,Romance,Blockbuster,202.3783783783784,80.0,180.0,8.315,No,247.02702702702703,Family,Hot,Weekday,260.0,Medium,2024Q1
+Karnataka,Bengaluru,38.0,2024-02-07,Evening,Action,Blockbuster,300.0,120.0,100.0,10.0,Yes,400.0,Family,Hot,Weekend,220.0,High,2024Q1
+Delhi,Jaipur,25.0,2024-02-08,Morning,Action,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,15.0,No,247.02702702702703,Family,Hot,Weekend,270.2145444413486,Medium,2024Q1
+Delhi,Jaipur,11.0,2024-02-09,Evening,Comedy,Blockbuster,250.0,150.0,100.0,15.0,No,400.0,Family,Normal,Weekday,250.0,High,2024Q1
+Maharashtra,Mumbai,29.0,2024-02-10,Morning,Thriller,Non-Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,10.0,No,120.0,Individual,Hot,Weekend,270.2145444413486,Medium,2024Q1
+Maharashtra,Hyderabad,41.0,2024-02-11,Afternoon,Action,Blockbuster,202.3783783783784,141.70103092783506,180.0,8.315,No,247.02702702702703,Family,Hot,Weekday,321.70103092783506,Medium,2024Q1
+Gujarat,Bengaluru,57.0,2024-02-12,Afternoon,Comedy,Blockbuster,202.3783783783784,200.0,60.0,8.315,No,247.02702702702703,Individual,Hot,Weekday,260.0,Medium,2024Q1
+Delhi,Jaipur,50.0,2024-02-13,Night,Action,Blockbuster,250.0,150.0,60.0,2.0,Yes,247.02702702702703,Individual,Rainy,Weekday,210.0,High,2024Q1
+Rajasthan,Hyderabad,52.0,2024-02-14,Night,Drama,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,10.0,No,120.0,Individual,Hot,Weekday,270.2145444413486,Medium,2024Q1
+Kerala,Delhi,40.0,2024-02-15,Afternoon,Thriller,Non-Blockbuster,150.0,150.0,60.0,5.0,No,247.02702702702703,Family,Hot,Weekday,210.0,Low,2024Q1
+Gujarat,Chennai,52.0,2024-02-16,Morning,Thriller,Non-Blockbuster,202.3783783783784,120.0,60.0,10.0,No,250.0,Family,Hot,Weekday,180.0,Medium,2024Q1
+Rajasthan,Chennai,80.0,2024-02-17,Night,Action,Non-Blockbuster,300.0,80.0,60.0,15.0,No,247.02702702702703,Individual,Hot,Weekend,140.0,High,2024Q1
+Gujarat,Hyderabad,51.0,2024-02-18,Night,Comedy,Blockbuster,180.0,150.0,128.51351351351352,2.0,Yes,247.02702702702703,Family,Hot,Weekday,278.51351351351354,Low,2024Q1
+Rajasthan,Hyderabad,65.0,2024-02-19,Evening,Romance,Blockbuster,150.0,150.0,30.0,10.0,Yes,247.02702702702703,Family,Normal,Weekday,180.0,Low,2024Q1
+West Bengal,Bengaluru,51.0,2024-02-20,Evening,Action,Blockbuster,300.0,150.0,100.0,15.0,Yes,247.02702702702703,Family,Normal,Weekday,250.0,High,2024Q1
+Maharashtra,Vijayawada,24.0,2024-02-21,Afternoon,Romance,Blockbuster,202.3783783783784,80.0,260.0,8.315,No,250.0,Family,Hot,Weekday,340.0,Medium,2024Q1
+Tamil Nadu,Mumbai,36.0,2024-02-22,Night,Thriller,Blockbuster,250.0,80.0,128.51351351351352,2.0,No,247.02702702702703,Family,Hot,Weekend,208.51351351351352,High,2024Q1
+Gujarat,Ahmedabad,8.0,2024-02-23,Afternoon,Romance,Blockbuster,150.0,120.0,128.51351351351352,15.0,No,400.0,Family,Hot,Weekend,248.51351351351352,Low,2024Q1
+Andhra Pradesh,Delhi,45.0,2024-02-24,Afternoon,Comedy,Non-Blockbuster,120.0,120.0,100.0,10.0,Yes,120.0,Family,Hot,Weekday,220.0,Low,2024Q1
+Maharashtra,Ahmedabad,13.0,2024-02-25,Morning,Romance,Non-Blockbuster,202.3783783783784,200.0,128.51351351351352,8.315,Yes,247.02702702702703,Family,Rainy,Weekday,328.51351351351354,Medium,2024Q1
+Karnataka,Chennai,37.0,2024-02-26,Evening,Romance,Non-Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,10.0,No,250.0,Individual,Hot,Weekday,270.2145444413486,Medium,2024Q1
+Delhi,Chennai,28.0,2024-02-27,Morning,Action,Blockbuster,250.0,120.0,100.0,5.0,No,400.0,Family,Hot,Weekday,220.0,High,2024Q1
+Rajasthan,Jaipur,18.0,2024-02-28,Evening,Thriller,Blockbuster,300.0,150.0,100.0,5.0,Yes,247.02702702702703,Individual,Hot,Weekday,250.0,High,2024Q1
+Tamil Nadu,Jaipur,94.0,2024-02-29,Morning,Action,Non-Blockbuster,120.0,200.0,100.0,5.0,No,250.0,Family,Hot,Weekday,300.0,Low,2024Q1
+Gujarat,Vijayawada,85.0,2024-03-01,Evening,Action,Blockbuster,202.3783783783784,120.0,128.51351351351352,8.315,Yes,247.02702702702703,Family,Hot,Weekend,248.51351351351352,Medium,2024Q1
+Gujarat,Chennai,89.0,2024-03-02,Morning,Comedy,Non-Blockbuster,202.3783783783784,141.70103092783506,60.0,10.0,No,400.0,Individual,Rainy,Weekday,201.70103092783506,Medium,2024Q1
+West Bengal,Jaipur,87.0,2024-03-03,Night,Action,Non-Blockbuster,120.0,141.70103092783506,30.0,15.0,No,247.02702702702703,Individual,Hot,Weekend,171.70103092783506,Low,2024Q1
+Karnataka,Jaipur,8.0,2024-03-04,Morning,Action,Non-Blockbuster,300.0,200.0,260.0,5.0,No,120.0,Family,Hot,Weekend,460.0,High,2024Q1
+Gujarat,Kochi,41.0,2024-03-05,Morning,Romance,Non-Blockbuster,300.0,200.0,30.0,8.315,Yes,250.0,Family,Hot,Weekday,230.0,High,2024Q1
+Maharashtra,Bengaluru,84.0,2024-03-06,Evening,Action,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,15.0,No,400.0,Family,Rainy,Weekday,270.2145444413486,Medium,2024Q1
+West Bengal,Vijayawada,50.0,2024-03-07,Evening,Thriller,Blockbuster,202.3783783783784,150.0,100.0,10.0,No,247.02702702702703,Individual,Hot,Weekend,250.0,Medium,2024Q1
+Maharashtra,Chennai,33.0,2024-03-08,Morning,Comedy,Blockbuster,300.0,200.0,260.0,2.0,No,247.02702702702703,Individual,Hot,Weekend,460.0,High,2024Q1
+Rajasthan,Delhi,67.0,2024-03-09,Evening,Romance,Blockbuster,300.0,120.0,128.51351351351352,8.315,Yes,247.02702702702703,Family,Hot,Weekday,248.51351351351352,High,2024Q1
+West Bengal,Kochi,92.0,2024-03-10,Morning,Drama,Blockbuster,202.3783783783784,200.0,128.51351351351352,15.0,No,400.0,Individual,Normal,Weekday,328.51351351351354,Medium,2024Q1
+Andhra Pradesh,Bengaluru,66.0,2024-03-11,Morning,Action,Non-Blockbuster,120.0,200.0,260.0,8.315,No,120.0,Individual,Normal,Weekday,460.0,Low,2024Q1
+Andhra Pradesh,Mumbai,23.0,2024-03-12,Night,Action,Blockbuster,120.0,150.0,180.0,2.0,No,247.02702702702703,Family,Hot,Weekend,330.0,Low,2024Q1
+Gujarat,Bengaluru,46.0,2024-03-13,Afternoon,Drama,Blockbuster,150.0,141.70103092783506,180.0,8.315,Yes,250.0,Family,Hot,Weekend,321.70103092783506,Low,2024Q1
+Tamil Nadu,Jaipur,83.0,2024-03-14,Morning,Comedy,Blockbuster,250.0,141.70103092783506,128.51351351351352,2.0,No,400.0,Individual,Rainy,Weekend,270.2145444413486,High,2024Q1
+Maharashtra,Chennai,56.0,2024-03-15,Morning,Romance,Non-Blockbuster,180.0,141.70103092783506,180.0,8.315,No,247.02702702702703,Family,Normal,Weekend,321.70103092783506,Low,2024Q1
+Telangana,Jaipur,72.0,2024-03-16,Night,Comedy,Blockbuster,120.0,80.0,260.0,10.0,No,247.02702702702703,Individual,Hot,Weekday,340.0,Low,2024Q1
+Delhi,Ahmedabad,9.0,2024-03-17,Morning,Comedy,Non-Blockbuster,250.0,141.70103092783506,30.0,8.315,No,247.02702702702703,Family,Rainy,Weekday,171.70103092783506,High,2024Q1
+Gujarat,Kochi,44.0,2024-03-18,Morning,Comedy,Blockbuster,300.0,80.0,260.0,2.0,Yes,120.0,Individual,Hot,Weekday,340.0,High,2024Q1
+Rajasthan,Mumbai,38.0,2024-03-19,Morning,Action,Blockbuster,202.3783783783784,200.0,60.0,8.315,No,247.02702702702703,Family,Hot,Weekday,260.0,Medium,2024Q1
+Karnataka,Mumbai,39.0,2024-03-20,Evening,Action,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,5.0,No,120.0,Family,Hot,Weekend,270.2145444413486,Medium,2024Q1
+Rajasthan,Ahmedabad,56.0,2024-03-21,Morning,Romance,Non-Blockbuster,180.0,141.70103092783506,30.0,8.315,No,120.0,Family,Normal,Weekend,171.70103092783506,Low,2024Q1
+Andhra Pradesh,Hyderabad,34.0,2024-03-22,Morning,Action,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,5.0,No,250.0,Family,Normal,Weekday,270.2145444413486,Medium,2024Q1
+Tamil Nadu,Jaipur,8.0,2024-03-23,Morning,Drama,Blockbuster,202.3783783783784,80.0,260.0,5.0,No,247.02702702702703,Family,Normal,Weekday,340.0,Medium,2024Q1
+Maharashtra,Mumbai,15.0,2024-03-24,Afternoon,Action,Blockbuster,120.0,120.0,60.0,8.315,Yes,120.0,Family,Hot,Weekday,180.0,Low,2024Q1
+Delhi,Mumbai,55.0,2024-03-25,Morning,Thriller,Blockbuster,202.3783783783784,150.0,128.51351351351352,8.315,No,247.02702702702703,Family,Hot,Weekday,278.51351351351354,Medium,2024Q1
+Kerala,Kolkata,62.0,2024-03-26,Evening,Romance,Non-Blockbuster,150.0,150.0,180.0,15.0,No,247.02702702702703,Family,Rainy,Weekday,330.0,Low,2024Q1
+Kerala,Delhi,78.0,2024-03-27,Morning,Drama,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,15.0,No,120.0,Family,Hot,Weekend,270.2145444413486,Medium,2024Q1
+Kerala,Jaipur,56.0,2024-03-28,Evening,Romance,Non-Blockbuster,250.0,150.0,100.0,15.0,No,247.02702702702703,Family,Hot,Weekday,250.0,High,2024Q1
+Rajasthan,Kochi,65.0,2024-03-29,Afternoon,Action,Blockbuster,202.3783783783784,120.0,100.0,10.0,Yes,247.02702702702703,Individual,Rainy,Weekday,220.0,Medium,2024Q1
+Karnataka,Jaipur,14.0,2024-03-30,Afternoon,Action,Blockbuster,150.0,141.70103092783506,30.0,15.0,Yes,120.0,Family,Hot,Weekday,171.70103092783506,Low,2024Q1
+Karnataka,Kochi,40.0,2024-03-31,Afternoon,Action,Non-Blockbuster,120.0,80.0,100.0,5.0,No,247.02702702702703,Family,Rainy,Weekday,180.0,Low,2024Q1
+Gujarat,Chennai,74.0,2024-04-01,Afternoon,Drama,Blockbuster,202.3783783783784,150.0,180.0,8.315,Yes,247.02702702702703,Family,Normal,Weekday,330.0,Medium,2024Q2
+Tamil Nadu,Chennai,17.0,2024-04-02,Night,Romance,Non-Blockbuster,180.0,80.0,260.0,2.0,No,250.0,Individual,Rainy,Weekday,340.0,Low,2024Q2
+West Bengal,Chennai,78.0,2024-04-03,Morning,Drama,Non-Blockbuster,202.3783783783784,200.0,128.51351351351352,2.0,No,400.0,Family,Hot,Weekday,328.51351351351354,Medium,2024Q2
+Rajasthan,Chennai,49.0,2024-04-04,Morning,Drama,Blockbuster,250.0,150.0,180.0,5.0,No,247.02702702702703,Family,Rainy,Weekday,330.0,High,2024Q2
+Telangana,Kolkata,86.0,2024-04-05,Morning,Romance,Non-Blockbuster,250.0,80.0,30.0,8.315,No,250.0,Individual,Hot,Weekday,110.0,High,2024Q2
+Gujarat,Bengaluru,36.0,2024-04-06,Afternoon,Action,Blockbuster,202.3783783783784,141.70103092783506,260.0,15.0,No,247.02702702702703,Individual,Normal,Weekday,401.70103092783506,Medium,2024Q2
+Telangana,Ahmedabad,63.0,2024-04-07,Morning,Action,Blockbuster,250.0,120.0,128.51351351351352,8.315,Yes,247.02702702702703,Family,Normal,Weekend,248.51351351351352,High,2024Q2
+Kerala,Delhi,31.0,2024-04-08,Afternoon,Romance,Blockbuster,300.0,141.70103092783506,30.0,8.315,Yes,247.02702702702703,Individual,Hot,Weekday,171.70103092783506,High,2024Q2
+Maharashtra,Bengaluru,12.0,2024-04-09,Evening,Drama,Blockbuster,150.0,200.0,260.0,8.315,No,247.02702702702703,Individual,Rainy,Weekend,460.0,Low,2024Q2
+West Bengal,Ahmedabad,43.0,2024-04-10,Morning,Romance,Blockbuster,250.0,80.0,30.0,8.315,Yes,120.0,Family,Normal,Weekday,110.0,High,2024Q2
+Gujarat,Chennai,18.0,2024-04-11,Night,Comedy,Blockbuster,202.3783783783784,80.0,128.51351351351352,8.315,No,247.02702702702703,Individual,Normal,Weekday,208.51351351351352,Medium,2024Q2
+Telangana,Kolkata,65.0,2024-04-12,Night,Action,Non-Blockbuster,202.3783783783784,141.70103092783506,60.0,2.0,Yes,247.02702702702703,Family,Normal,Weekday,201.70103092783506,Medium,2024Q2
+Telangana,Ahmedabad,35.0,2024-04-13,Afternoon,Action,Blockbuster,202.3783783783784,200.0,128.51351351351352,8.315,No,247.02702702702703,Individual,Rainy,Weekday,328.51351351351354,Medium,2024Q2
+Delhi,Delhi,30.0,2024-04-14,Evening,Action,Blockbuster,202.3783783783784,150.0,180.0,5.0,No,247.02702702702703,Individual,Normal,Weekday,330.0,Medium,2024Q2
+West Bengal,Hyderabad,71.0,2024-04-15,Evening,Action,Blockbuster,250.0,141.70103092783506,260.0,8.315,Yes,247.02702702702703,Individual,Hot,Weekday,401.70103092783506,High,2024Q2
+Andhra Pradesh,Bengaluru,48.0,2024-04-16,Morning,Comedy,Blockbuster,300.0,141.70103092783506,60.0,8.315,Yes,120.0,Individual,Normal,Weekend,201.70103092783506,High,2024Q2
+Delhi,Kolkata,87.0,2024-04-17,Afternoon,Action,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,8.315,No,247.02702702702703,Individual,Hot,Weekday,270.2145444413486,Medium,2024Q2
+Andhra Pradesh,Kochi,14.0,2024-04-18,Night,Comedy,Blockbuster,150.0,120.0,100.0,10.0,No,247.02702702702703,Individual,Hot,Weekday,220.0,Low,2024Q2
+Maharashtra,Jaipur,1.0,2024-04-19,Morning,Thriller,Blockbuster,202.3783783783784,150.0,128.51351351351352,2.0,Yes,247.02702702702703,Family,Hot,Weekday,278.51351351351354,Medium,2024Q2
+West Bengal,Chennai,1.0,2024-04-20,Morning,Action,Non-Blockbuster,150.0,200.0,260.0,8.315,Yes,120.0,Family,Normal,Weekend,460.0,Low,2024Q2
+Gujarat,Jaipur,79.0,2024-04-21,Afternoon,Action,Non-Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,5.0,Yes,250.0,Family,Hot,Weekday,270.2145444413486,Medium,2024Q2
+West Bengal,Ahmedabad,87.0,2024-04-22,Evening,Romance,Blockbuster,180.0,141.70103092783506,260.0,10.0,No,120.0,Family,Hot,Weekend,401.70103092783506,Low,2024Q2
+Maharashtra,Chennai,8.0,2024-04-23,Evening,Romance,Blockbuster,250.0,80.0,100.0,15.0,No,250.0,Family,Hot,Weekend,180.0,High,2024Q2
+Rajasthan,Ahmedabad,74.0,2024-04-24,Morning,Comedy,Non-Blockbuster,150.0,150.0,128.51351351351352,8.315,No,400.0,Family,Normal,Weekend,278.51351351351354,Low,2024Q2
+West Bengal,Delhi,96.0,2024-04-25,Morning,Thriller,Blockbuster,202.3783783783784,200.0,128.51351351351352,10.0,No,400.0,Family,Normal,Weekday,328.51351351351354,Medium,2024Q2
+Telangana,Kolkata,69.0,2024-04-26,Morning,Action,Blockbuster,202.3783783783784,150.0,128.51351351351352,2.0,Yes,120.0,Family,Rainy,Weekday,278.51351351351354,Medium,2024Q2
+West Bengal,Delhi,62.0,2024-04-27,Morning,Drama,Blockbuster,250.0,141.70103092783506,180.0,10.0,No,250.0,Individual,Hot,Weekend,321.70103092783506,High,2024Q2
+Delhi,Kochi,35.0,2024-04-28,Morning,Romance,Blockbuster,202.3783783783784,150.0,30.0,8.315,No,250.0,Family,Normal,Weekend,180.0,Medium,2024Q2
+Kerala,Vijayawada,31.0,2024-04-29,Night,Action,Blockbuster,150.0,200.0,128.51351351351352,5.0,Yes,247.02702702702703,Individual,Hot,Weekday,328.51351351351354,Low,2024Q2
+Maharashtra,Chennai,91.0,2024-04-30,Morning,Comedy,Blockbuster,300.0,80.0,180.0,8.315,Yes,247.02702702702703,Individual,Hot,Weekday,260.0,High,2024Q2
+Tamil Nadu,Jaipur,83.0,2024-05-01,Night,Comedy,Blockbuster,202.3783783783784,141.70103092783506,60.0,15.0,Yes,120.0,Family,Rainy,Weekday,201.70103092783506,Medium,2024Q2
+Karnataka,Jaipur,43.0,2024-05-02,Morning,Action,Non-Blockbuster,202.3783783783784,141.70103092783506,260.0,8.315,No,250.0,Family,Rainy,Weekend,401.70103092783506,Medium,2024Q2
+Gujarat,Vijayawada,94.0,2024-05-03,Morning,Romance,Non-Blockbuster,300.0,200.0,128.51351351351352,15.0,Yes,247.02702702702703,Family,Normal,Weekday,328.51351351351354,High,2024Q2
+West Bengal,Kochi,41.0,2024-05-04,Night,Thriller,Blockbuster,120.0,200.0,128.51351351351352,2.0,No,120.0,Family,Normal,Weekday,328.51351351351354,Low,2024Q2
+Andhra Pradesh,Vijayawada,11.0,2024-05-05,Evening,Romance,Blockbuster,180.0,150.0,100.0,5.0,No,247.02702702702703,Family,Hot,Weekday,250.0,Low,2024Q2
+Gujarat,Ahmedabad,21.0,2024-05-06,Afternoon,Action,Blockbuster,202.3783783783784,120.0,100.0,2.0,No,120.0,Family,Normal,Weekday,220.0,Medium,2024Q2
+Gujarat,Mumbai,20.0,2024-05-07,Morning,Drama,Blockbuster,150.0,120.0,30.0,15.0,No,247.02702702702703,Family,Rainy,Weekday,150.0,Low,2024Q2
+West Bengal,Bengaluru,63.0,2024-05-08,Night,Thriller,Blockbuster,202.3783783783784,120.0,260.0,2.0,No,247.02702702702703,Family,Normal,Weekend,380.0,Medium,2024Q2
+Karnataka,Bengaluru,16.0,2024-05-09,Morning,Drama,Blockbuster,120.0,120.0,100.0,8.315,Yes,247.02702702702703,Individual,Hot,Weekday,220.0,Low,2024Q2
+Tamil Nadu,Ahmedabad,2.0,2024-05-10,Afternoon,Drama,Blockbuster,180.0,120.0,260.0,2.0,Yes,120.0,Family,Rainy,Weekday,380.0,Low,2024Q2
+Karnataka,Delhi,49.0,2024-05-11,Evening,Action,Blockbuster,120.0,200.0,260.0,10.0,No,400.0,Individual,Rainy,Weekday,460.0,Low,2024Q2
+Rajasthan,Vijayawada,34.0,2024-05-12,Morning,Action,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,8.315,Yes,400.0,Family,Hot,Weekday,270.2145444413486,Medium,2024Q2
+Rajasthan,Kolkata,88.0,2024-05-13,Evening,Action,Non-Blockbuster,150.0,141.70103092783506,30.0,2.0,Yes,400.0,Family,Hot,Weekday,171.70103092783506,Low,2024Q2
+Delhi,Vijayawada,79.0,2024-05-14,Afternoon,Drama,Blockbuster,202.3783783783784,141.70103092783506,60.0,15.0,No,247.02702702702703,Family,Hot,Weekday,201.70103092783506,Medium,2024Q2
+Andhra Pradesh,Chennai,77.0,2024-05-15,Morning,Romance,Blockbuster,202.3783783783784,80.0,30.0,10.0,No,250.0,Individual,Hot,Weekend,110.0,Medium,2024Q2
+Andhra Pradesh,Jaipur,83.0,2024-05-16,Night,Action,Blockbuster,202.3783783783784,120.0,180.0,10.0,Yes,247.02702702702703,Family,Hot,Weekend,300.0,Medium,2024Q2
+Tamil Nadu,Jaipur,62.0,2024-05-17,Evening,Thriller,Non-Blockbuster,180.0,120.0,128.51351351351352,10.0,No,247.02702702702703,Individual,Normal,Weekday,248.51351351351352,Low,2024Q2
+Andhra Pradesh,Chennai,62.0,2024-05-18,Evening,Romance,Non-Blockbuster,300.0,200.0,60.0,8.315,Yes,120.0,Family,Hot,Weekday,260.0,High,2024Q2
+Kerala,Chennai,22.0,2024-05-19,Afternoon,Romance,Non-Blockbuster,150.0,150.0,100.0,2.0,No,400.0,Individual,Normal,Weekday,250.0,Low,2024Q2
+Karnataka,Chennai,35.0,2024-05-20,Morning,Action,Blockbuster,150.0,120.0,60.0,8.315,No,400.0,Family,Hot,Weekend,180.0,Low,2024Q2
+Andhra Pradesh,Kochi,79.0,2024-05-21,Morning,Action,Non-Blockbuster,180.0,80.0,30.0,8.315,No,247.02702702702703,Family,Rainy,Weekend,110.0,Low,2024Q2
+Andhra Pradesh,Chennai,48.0,2024-05-22,Morning,Thriller,Blockbuster,202.3783783783784,80.0,60.0,8.315,No,400.0,Family,Normal,Weekday,140.0,Medium,2024Q2
+Tamil Nadu,Vijayawada,38.0,2024-05-23,Afternoon,Comedy,Blockbuster,300.0,141.70103092783506,60.0,8.315,Yes,120.0,Family,Hot,Weekend,201.70103092783506,High,2024Q2
+West Bengal,Mumbai,15.0,2024-05-24,Afternoon,Romance,Blockbuster,120.0,120.0,128.51351351351352,10.0,No,247.02702702702703,Family,Hot,Weekend,248.51351351351352,Low,2024Q2
+Tamil Nadu,Kolkata,67.0,2024-05-25,Morning,Thriller,Blockbuster,150.0,141.70103092783506,100.0,8.315,No,247.02702702702703,Individual,Normal,Weekday,241.70103092783506,Low,2024Q2
+Kerala,Kolkata,77.0,2024-05-26,Night,Action,Non-Blockbuster,120.0,141.70103092783506,260.0,10.0,No,250.0,Individual,Hot,Weekend,401.70103092783506,Low,2024Q2
+Tamil Nadu,Delhi,40.0,2024-05-27,Evening,Action,Blockbuster,180.0,141.70103092783506,128.51351351351352,10.0,No,247.02702702702703,Family,Normal,Weekday,270.2145444413486,Low,2024Q2
+Telangana,Mumbai,96.0,2024-05-28,Night,Comedy,Blockbuster,150.0,120.0,60.0,15.0,Yes,250.0,Family,Hot,Weekday,180.0,Low,2024Q2
+Telangana,Vijayawada,64.0,2024-05-29,Morning,Action,Blockbuster,150.0,141.70103092783506,60.0,8.315,No,247.02702702702703,Family,Rainy,Weekend,201.70103092783506,Low,2024Q2
+Karnataka,Kolkata,42.0,2024-05-30,Morning,Drama,Blockbuster,150.0,141.70103092783506,100.0,8.315,Yes,247.02702702702703,Family,Normal,Weekend,241.70103092783506,Low,2024Q2
+Karnataka,Ahmedabad,47.0,2024-05-31,Evening,Comedy,Non-Blockbuster,250.0,120.0,260.0,5.0,No,120.0,Family,Normal,Weekday,380.0,High,2024Q2
+Telangana,Hyderabad,93.0,2024-06-01,Night,Drama,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,8.315,Yes,247.02702702702703,Family,Rainy,Weekend,270.2145444413486,Medium,2024Q2
+Gujarat,Hyderabad,80.0,2024-06-02,Evening,Action,Non-Blockbuster,120.0,120.0,100.0,5.0,Yes,250.0,Family,Hot,Weekday,220.0,Low,2024Q2
+Kerala,Kolkata,67.0,2024-06-03,Morning,Action,Blockbuster,180.0,141.70103092783506,128.51351351351352,2.0,No,247.02702702702703,Family,Hot,Weekend,270.2145444413486,Low,2024Q2
+Karnataka,Mumbai,52.0,2024-06-04,Afternoon,Thriller,Blockbuster,180.0,150.0,260.0,5.0,No,120.0,Family,Normal,Weekend,410.0,Low,2024Q2
+Gujarat,Bengaluru,45.0,2024-06-05,Evening,Comedy,Blockbuster,202.3783783783784,141.70103092783506,100.0,10.0,No,250.0,Family,Normal,Weekday,241.70103092783506,Medium,2024Q2
+Tamil Nadu,Chennai,98.0,2024-06-06,Morning,Action,Non-Blockbuster,250.0,150.0,128.51351351351352,5.0,Yes,247.02702702702703,Family,Hot,Weekday,278.51351351351354,High,2024Q2
+Karnataka,Kolkata,25.0,2024-06-07,Morning,Thriller,Non-Blockbuster,300.0,141.70103092783506,128.51351351351352,8.315,Yes,120.0,Family,Normal,Weekend,270.2145444413486,High,2024Q2
+Tamil Nadu,Chennai,99.0,2024-06-08,Night,Thriller,Blockbuster,202.3783783783784,141.70103092783506,100.0,15.0,No,247.02702702702703,Individual,Hot,Weekday,241.70103092783506,Medium,2024Q2
+West Bengal,Jaipur,79.0,2024-06-09,Evening,Action,Non-Blockbuster,202.3783783783784,200.0,128.51351351351352,8.315,Yes,247.02702702702703,Individual,Hot,Weekday,328.51351351351354,Medium,2024Q2
+Karnataka,Hyderabad,29.0,2024-06-10,Night,Action,Blockbuster,120.0,80.0,260.0,2.0,No,247.02702702702703,Family,Hot,Weekend,340.0,Low,2024Q2
+Karnataka,Vijayawada,99.0,2024-06-11,Morning,Action,Blockbuster,300.0,120.0,60.0,10.0,Yes,400.0,Family,Normal,Weekday,180.0,High,2024Q2
+Rajasthan,Mumbai,69.0,2024-06-12,Morning,Comedy,Blockbuster,300.0,200.0,260.0,2.0,Yes,120.0,Individual,Rainy,Weekend,460.0,High,2024Q2
+Kerala,Kochi,46.0,2024-06-13,Night,Action,Non-Blockbuster,250.0,120.0,180.0,5.0,No,247.02702702702703,Individual,Hot,Weekend,300.0,High,2024Q2
+West Bengal,Kochi,35.0,2024-06-14,Evening,Romance,Non-Blockbuster,300.0,150.0,180.0,2.0,Yes,247.02702702702703,Family,Normal,Weekday,330.0,High,2024Q2
+Rajasthan,Delhi,26.0,2024-06-15,Night,Comedy,Blockbuster,250.0,80.0,180.0,8.315,Yes,250.0,Individual,Rainy,Weekday,260.0,High,2024Q2
+Karnataka,Mumbai,6.0,2024-06-16,Night,Thriller,Non-Blockbuster,202.3783783783784,120.0,260.0,10.0,No,247.02702702702703,Family,Normal,Weekday,380.0,Medium,2024Q2
+Kerala,Vijayawada,56.0,2024-06-17,Morning,Romance,Blockbuster,180.0,141.70103092783506,180.0,15.0,No,247.02702702702703,Family,Normal,Weekday,321.70103092783506,Low,2024Q2
+Andhra Pradesh,Mumbai,14.0,2024-06-18,Night,Drama,Non-Blockbuster,202.3783783783784,150.0,128.51351351351352,8.315,No,120.0,Family,Rainy,Weekday,278.51351351351354,Medium,2024Q2
+West Bengal,Mumbai,83.0,2024-06-19,Afternoon,Drama,Non-Blockbuster,120.0,141.70103092783506,128.51351351351352,5.0,Yes,247.02702702702703,Individual,Hot,Weekday,270.2145444413486,Low,2024Q2
+Gujarat,Chennai,58.0,2024-06-20,Night,Drama,Blockbuster,202.3783783783784,120.0,60.0,2.0,Yes,400.0,Family,Hot,Weekend,180.0,Medium,2024Q2
+Delhi,Chennai,95.0,2024-06-21,Evening,Drama,Blockbuster,300.0,120.0,260.0,10.0,No,247.02702702702703,Family,Normal,Weekday,380.0,High,2024Q2
+Karnataka,Delhi,80.0,2024-06-22,Afternoon,Comedy,Blockbuster,180.0,150.0,100.0,5.0,Yes,120.0,Family,Rainy,Weekday,250.0,Low,2024Q2
+West Bengal,Delhi,90.0,2024-06-23,Afternoon,Action,Non-Blockbuster,250.0,80.0,30.0,10.0,No,250.0,Family,Hot,Weekday,110.0,High,2024Q2
+Telangana,Delhi,84.0,2024-06-24,Morning,Drama,Blockbuster,120.0,141.70103092783506,100.0,5.0,No,247.02702702702703,Family,Hot,Weekday,241.70103092783506,Low,2024Q2
+Maharashtra,Vijayawada,78.0,2024-06-25,Evening,Action,Blockbuster,300.0,141.70103092783506,100.0,15.0,No,247.02702702702703,Individual,Rainy,Weekday,241.70103092783506,High,2024Q2
+Rajasthan,Bengaluru,73.0,2024-06-26,Morning,Thriller,Non-Blockbuster,202.3783783783784,80.0,180.0,8.315,No,400.0,Family,Hot,Weekday,260.0,Medium,2024Q2
+Tamil Nadu,Bengaluru,14.0,2024-06-27,Morning,Drama,Blockbuster,202.3783783783784,200.0,128.51351351351352,15.0,No,120.0,Individual,Normal,Weekday,328.51351351351354,Medium,2024Q2
+Gujarat,Kolkata,8.0,2024-06-28,Morning,Action,Blockbuster,120.0,120.0,60.0,10.0,No,400.0,Family,Hot,Weekend,180.0,Low,2024Q2
+West Bengal,Kolkata,39.0,2024-06-29,Afternoon,Comedy,Blockbuster,250.0,120.0,100.0,15.0,Yes,250.0,Individual,Hot,Weekday,220.0,High,2024Q2
+West Bengal,Bengaluru,52.0,2024-06-30,Night,Action,Blockbuster,150.0,141.70103092783506,100.0,8.315,No,400.0,Family,Hot,Weekend,241.70103092783506,Low,2024Q2
+Tamil Nadu,Ahmedabad,18.0,2024-07-01,Evening,Action,Non-Blockbuster,180.0,141.70103092783506,260.0,5.0,No,247.02702702702703,Family,Rainy,Weekend,401.70103092783506,Low,2024Q3
+West Bengal,Chennai,54.0,2024-07-02,Night,Thriller,Blockbuster,202.3783783783784,150.0,180.0,8.315,Yes,400.0,Family,Hot,Weekday,330.0,Medium,2024Q3
+Maharashtra,Mumbai,23.0,2024-07-03,Afternoon,Romance,Blockbuster,150.0,80.0,100.0,8.315,No,247.02702702702703,Individual,Rainy,Weekday,180.0,Low,2024Q3
+West Bengal,Chennai,61.0,2024-07-04,Morning,Drama,Blockbuster,250.0,141.70103092783506,180.0,10.0,Yes,120.0,Individual,Hot,Weekday,321.70103092783506,High,2024Q3
+Andhra Pradesh,Ahmedabad,75.0,2024-07-05,Morning,Action,Blockbuster,202.3783783783784,141.70103092783506,100.0,10.0,No,250.0,Family,Hot,Weekend,241.70103092783506,Medium,2024Q3
+Rajasthan,Jaipur,67.0,2024-07-06,Morning,Action,Blockbuster,202.3783783783784,150.0,60.0,15.0,No,247.02702702702703,Family,Rainy,Weekday,210.0,Medium,2024Q3
+West Bengal,Chennai,70.0,2024-07-07,Night,Drama,Non-Blockbuster,180.0,141.70103092783506,30.0,2.0,No,120.0,Family,Normal,Weekday,171.70103092783506,Low,2024Q3
+Telangana,Kochi,70.0,2024-07-08,Afternoon,Thriller,Non-Blockbuster,180.0,150.0,128.51351351351352,8.315,No,247.02702702702703,Individual,Normal,Weekend,278.51351351351354,Low,2024Q3
+Delhi,Chennai,68.0,2024-07-09,Morning,Romance,Blockbuster,180.0,141.70103092783506,128.51351351351352,15.0,Yes,247.02702702702703,Individual,Rainy,Weekend,270.2145444413486,Low,2024Q3
+Karnataka,Jaipur,9.0,2024-07-10,Morning,Drama,Non-Blockbuster,202.3783783783784,141.70103092783506,60.0,5.0,No,400.0,Family,Normal,Weekday,201.70103092783506,Medium,2024Q3
+Kerala,Hyderabad,81.0,2024-07-11,Morning,Action,Blockbuster,180.0,141.70103092783506,180.0,10.0,No,247.02702702702703,Family,Rainy,Weekday,321.70103092783506,Low,2024Q3
+Kerala,Kolkata,66.0,2024-07-12,Night,Romance,Blockbuster,180.0,120.0,30.0,8.315,Yes,247.02702702702703,Family,Normal,Weekend,150.0,Low,2024Q3
+Andhra Pradesh,Ahmedabad,4.0,2024-07-13,Morning,Thriller,Blockbuster,120.0,141.70103092783506,100.0,15.0,No,247.02702702702703,Family,Rainy,Weekday,241.70103092783506,Low,2024Q3
+Gujarat,Jaipur,89.0,2024-07-14,Evening,Romance,Blockbuster,120.0,150.0,100.0,5.0,No,247.02702702702703,Family,Hot,Weekday,250.0,Low,2024Q3
+West Bengal,Kolkata,64.0,2024-07-15,Night,Romance,Blockbuster,300.0,141.70103092783506,60.0,15.0,No,400.0,Family,Hot,Weekday,201.70103092783506,High,2024Q3
+Delhi,Bengaluru,55.0,2024-07-16,Afternoon,Thriller,Blockbuster,300.0,141.70103092783506,100.0,8.315,No,247.02702702702703,Family,Hot,Weekday,241.70103092783506,High,2024Q3
+Maharashtra,Vijayawada,5.0,2024-07-17,Night,Romance,Non-Blockbuster,202.3783783783784,200.0,60.0,2.0,Yes,247.02702702702703,Family,Hot,Weekday,260.0,Medium,2024Q3
+Delhi,Ahmedabad,67.0,2024-07-18,Evening,Action,Blockbuster,180.0,141.70103092783506,60.0,15.0,Yes,247.02702702702703,Family,Hot,Weekday,201.70103092783506,Low,2024Q3
+Maharashtra,Chennai,56.0,2024-07-19,Night,Action,Non-Blockbuster,300.0,200.0,60.0,10.0,No,247.02702702702703,Family,Rainy,Weekday,260.0,High,2024Q3
+Delhi,Vijayawada,64.0,2024-07-20,Evening,Romance,Non-Blockbuster,120.0,141.70103092783506,30.0,15.0,Yes,247.02702702702703,Individual,Hot,Weekday,171.70103092783506,Low,2024Q3
+Maharashtra,Mumbai,76.0,2024-07-21,Evening,Action,Blockbuster,202.3783783783784,141.70103092783506,180.0,5.0,No,400.0,Family,Hot,Weekday,321.70103092783506,Medium,2024Q3
+Andhra Pradesh,Kolkata,20.0,2024-07-22,Morning,Drama,Blockbuster,120.0,120.0,260.0,2.0,No,400.0,Family,Hot,Weekend,380.0,Low,2024Q3
+Gujarat,Hyderabad,39.0,2024-07-23,Evening,Action,Blockbuster,202.3783783783784,141.70103092783506,260.0,15.0,No,120.0,Individual,Normal,Weekend,401.70103092783506,Medium,2024Q3
+Tamil Nadu,Kochi,12.0,2024-07-24,Evening,Action,Non-Blockbuster,250.0,80.0,180.0,8.315,No,247.02702702702703,Individual,Rainy,Weekend,260.0,High,2024Q3
+Andhra Pradesh,Vijayawada,53.0,2024-07-25,Morning,Drama,Non-Blockbuster,180.0,120.0,260.0,10.0,No,247.02702702702703,Family,Hot,Weekday,380.0,Low,2024Q3
+Telangana,Chennai,23.0,2024-07-26,Evening,Action,Blockbuster,180.0,120.0,128.51351351351352,15.0,Yes,247.02702702702703,Family,Normal,Weekend,248.51351351351352,Low,2024Q3
+Maharashtra,Delhi,100.0,2024-07-27,Morning,Drama,Blockbuster,150.0,200.0,128.51351351351352,15.0,No,250.0,Individual,Hot,Weekday,328.51351351351354,Low,2024Q3
+Andhra Pradesh,Jaipur,36.0,2024-07-28,Night,Drama,Blockbuster,250.0,200.0,30.0,8.315,No,120.0,Family,Hot,Weekday,230.0,High,2024Q3
+West Bengal,Chennai,32.0,2024-07-29,Morning,Comedy,Blockbuster,120.0,200.0,128.51351351351352,10.0,No,120.0,Family,Rainy,Weekday,328.51351351351354,Low,2024Q3
+Telangana,Bengaluru,75.0,2024-07-30,Evening,Drama,Non-Blockbuster,250.0,80.0,60.0,8.315,Yes,120.0,Family,Hot,Weekday,140.0,High,2024Q3
+Telangana,Jaipur,86.0,2024-07-31,Afternoon,Action,Blockbuster,202.3783783783784,141.70103092783506,180.0,2.0,No,247.02702702702703,Individual,Rainy,Weekday,321.70103092783506,Medium,2024Q3
+Telangana,Delhi,63.0,2024-08-01,Evening,Action,Non-Blockbuster,250.0,141.70103092783506,260.0,15.0,Yes,247.02702702702703,Family,Rainy,Weekday,401.70103092783506,High,2024Q3
+Gujarat,Kochi,29.0,2024-08-02,Night,Romance,Blockbuster,250.0,120.0,128.51351351351352,8.315,No,247.02702702702703,Family,Hot,Weekend,248.51351351351352,High,2024Q3
+West Bengal,Ahmedabad,34.0,2024-08-03,Morning,Drama,Non-Blockbuster,180.0,200.0,128.51351351351352,2.0,No,247.02702702702703,Family,Rainy,Weekend,328.51351351351354,Low,2024Q3
+Rajasthan,Kochi,15.0,2024-08-04,Afternoon,Romance,Non-Blockbuster,180.0,141.70103092783506,260.0,8.315,No,247.02702702702703,Family,Rainy,Weekend,401.70103092783506,Low,2024Q3
+Gujarat,Vijayawada,18.0,2024-08-05,Morning,Comedy,Blockbuster,250.0,200.0,100.0,10.0,No,247.02702702702703,Family,Rainy,Weekday,300.0,High,2024Q3
+Karnataka,Kochi,97.0,2024-08-06,Afternoon,Action,Blockbuster,300.0,80.0,60.0,15.0,No,247.02702702702703,Family,Normal,Weekday,140.0,High,2024Q3
+Kerala,Chennai,46.0,2024-08-07,Morning,Action,Blockbuster,150.0,80.0,100.0,5.0,No,247.02702702702703,Family,Hot,Weekend,180.0,Low,2024Q3
+Kerala,Mumbai,2.0,2024-08-08,Morning,Comedy,Blockbuster,300.0,200.0,60.0,8.315,Yes,400.0,Individual,Normal,Weekday,260.0,High,2024Q3
+Tamil Nadu,Jaipur,13.0,2024-08-09,Evening,Action,Blockbuster,202.3783783783784,141.70103092783506,260.0,8.315,No,120.0,Family,Rainy,Weekend,401.70103092783506,Medium,2024Q3
+Tamil Nadu,Vijayawada,28.0,2024-08-10,Morning,Action,Non-Blockbuster,202.3783783783784,141.70103092783506,60.0,8.315,Yes,247.02702702702703,Individual,Hot,Weekday,201.70103092783506,Medium,2024Q3
+Karnataka,Kolkata,90.0,2024-08-11,Evening,Drama,Blockbuster,202.3783783783784,141.70103092783506,100.0,2.0,Yes,247.02702702702703,Family,Hot,Weekday,241.70103092783506,Medium,2024Q3
+Telangana,Mumbai,18.0,2024-08-12,Night,Comedy,Blockbuster,180.0,141.70103092783506,100.0,10.0,Yes,247.02702702702703,Individual,Hot,Weekday,241.70103092783506,Low,2024Q3
+West Bengal,Jaipur,6.0,2024-08-13,Morning,Action,Non-Blockbuster,202.3783783783784,141.70103092783506,180.0,15.0,No,250.0,Family,Hot,Weekday,321.70103092783506,Medium,2024Q3
+West Bengal,Kochi,19.0,2024-08-14,Morning,Thriller,Non-Blockbuster,202.3783783783784,150.0,128.51351351351352,8.315,No,120.0,Individual,Hot,Weekday,278.51351351351354,Medium,2024Q3
+Telangana,Chennai,50.0,2024-08-15,Afternoon,Romance,Non-Blockbuster,202.3783783783784,141.70103092783506,100.0,2.0,No,247.02702702702703,Family,Hot,Weekday,241.70103092783506,Medium,2024Q3
+Karnataka,Ahmedabad,72.0,2024-08-16,Afternoon,Drama,Blockbuster,250.0,141.70103092783506,60.0,8.315,No,400.0,Family,Hot,Weekend,201.70103092783506,High,2024Q3
+Karnataka,Chennai,17.0,2024-08-17,Night,Romance,Blockbuster,202.3783783783784,200.0,30.0,10.0,No,400.0,Family,Rainy,Weekday,230.0,Medium,2024Q3
+Gujarat,Kochi,98.0,2024-08-18,Evening,Drama,Blockbuster,180.0,200.0,180.0,5.0,No,247.02702702702703,Individual,Normal,Weekend,380.0,Low,2024Q3
+Kerala,Kochi,15.0,2024-08-19,Evening,Action,Blockbuster,202.3783783783784,120.0,128.51351351351352,15.0,Yes,120.0,Individual,Normal,Weekday,248.51351351351352,Medium,2024Q3
+Maharashtra,Hyderabad,2.0,2024-08-20,Night,Comedy,Blockbuster,202.3783783783784,120.0,128.51351351351352,15.0,No,120.0,Family,Normal,Weekend,248.51351351351352,Medium,2024Q3
+Karnataka,Kolkata,69.0,2024-08-21,Night,Action,Blockbuster,300.0,120.0,30.0,15.0,No,247.02702702702703,Family,Normal,Weekend,150.0,High,2024Q3
+Delhi,Chennai,77.0,2024-08-22,Afternoon,Action,Blockbuster,250.0,141.70103092783506,180.0,10.0,No,400.0,Individual,Hot,Weekday,321.70103092783506,High,2024Q3
+Rajasthan,Hyderabad,3.0,2024-08-23,Morning,Thriller,Non-Blockbuster,250.0,141.70103092783506,100.0,2.0,No,247.02702702702703,Family,Rainy,Weekday,241.70103092783506,High,2024Q3
+West Bengal,Chennai,34.0,2024-08-24,Night,Drama,Blockbuster,180.0,200.0,260.0,15.0,Yes,247.02702702702703,Family,Normal,Weekday,460.0,Low,2024Q3
+Telangana,Kochi,86.0,2024-08-25,Night,Drama,Blockbuster,202.3783783783784,80.0,128.51351351351352,2.0,No,247.02702702702703,Individual,Hot,Weekday,208.51351351351352,Medium,2024Q3
+Kerala,Kochi,66.0,2024-08-26,Afternoon,Action,Blockbuster,202.3783783783784,200.0,260.0,10.0,No,120.0,Family,Hot,Weekday,460.0,Medium,2024Q3
+Telangana,Vijayawada,72.0,2024-08-27,Afternoon,Drama,Blockbuster,150.0,120.0,260.0,15.0,No,247.02702702702703,Family,Hot,Weekday,380.0,Low,2024Q3
+Gujarat,Bengaluru,32.0,2024-08-28,Morning,Thriller,Blockbuster,202.3783783783784,80.0,100.0,8.315,Yes,250.0,Individual,Normal,Weekend,180.0,Medium,2024Q3
+Delhi,Chennai,69.0,2024-08-29,Afternoon,Action,Non-Blockbuster,150.0,141.70103092783506,100.0,2.0,No,120.0,Family,Normal,Weekend,241.70103092783506,Low,2024Q3
+Maharashtra,Vijayawada,21.0,2024-08-30,Evening,Comedy,Blockbuster,120.0,150.0,128.51351351351352,8.315,No,247.02702702702703,Individual,Normal,Weekday,278.51351351351354,Low,2024Q3
+Tamil Nadu,Vijayawada,81.0,2024-08-31,Evening,Comedy,Blockbuster,250.0,141.70103092783506,100.0,5.0,No,247.02702702702703,Individual,Normal,Weekend,241.70103092783506,High,2024Q3
+Telangana,Bengaluru,23.0,2024-09-01,Evening,Action,Blockbuster,180.0,141.70103092783506,128.51351351351352,2.0,No,247.02702702702703,Individual,Hot,Weekday,270.2145444413486,Low,2024Q3
+Rajasthan,Hyderabad,58.0,2024-09-02,Evening,Action,Blockbuster,202.3783783783784,200.0,60.0,8.315,No,247.02702702702703,Family,Normal,Weekday,260.0,Medium,2024Q3
+Rajasthan,Chennai,17.0,2024-09-03,Afternoon,Romance,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,15.0,No,247.02702702702703,Individual,Normal,Weekday,270.2145444413486,Medium,2024Q3
+West Bengal,Chennai,97.0,2024-09-04,Night,Action,Blockbuster,202.3783783783784,200.0,128.51351351351352,2.0,No,247.02702702702703,Family,Hot,Weekday,328.51351351351354,Medium,2024Q3
+Rajasthan,Chennai,69.0,2024-09-05,Morning,Action,Blockbuster,250.0,200.0,128.51351351351352,15.0,No,247.02702702702703,Family,Normal,Weekday,328.51351351351354,High,2024Q3
+Telangana,Chennai,91.0,2024-09-06,Evening,Comedy,Blockbuster,250.0,141.70103092783506,60.0,2.0,No,247.02702702702703,Family,Rainy,Weekday,201.70103092783506,High,2024Q3
+Rajasthan,Chennai,51.0,2024-09-07,Morning,Action,Blockbuster,202.3783783783784,141.70103092783506,260.0,2.0,No,250.0,Family,Normal,Weekday,401.70103092783506,Medium,2024Q3
+Telangana,Ahmedabad,32.0,2024-09-08,Afternoon,Action,Blockbuster,202.3783783783784,141.70103092783506,128.51351351351352,8.315,No,250.0,Individual,Hot,Weekday,270.2145444413486,Medium,2024Q3
+West Bengal,Ahmedabad,72.0,2024-09-09,Night,Comedy,Blockbuster,180.0,200.0,128.51351351351352,5.0,No,247.02702702702703,Family,Hot,Weekend,328.51351351351354,Low,2024Q3
+West Bengal,Chennai,82.0,2024-09-10,Morning,Comedy,Blockbuster,250.0,80.0,30.0,2.0,No,250.0,Family,Hot,Weekend,110.0,High,2024Q3
+Rajasthan,Hyderabad,58.0,2024-09-11,Morning,Drama,Blockbuster,150.0,141.70103092783506,180.0,15.0,Yes,120.0,Individual,Hot,Weekday,321.70103092783506,Low,2024Q3
+West Bengal,Kolkata,51.0,2024-09-12,Morning,Drama,Blockbuster,202.3783783783784,200.0,128.51351351351352,5.0,Yes,247.02702702702703,Family,Rainy,Weekday,328.51351351351354,Medium,2024Q3
+Rajasthan,Delhi,87.0,2024-09-13,Morning,Drama,Blockbuster,202.3783783783784,150.0,100.0,8.315,No,247.02702702702703,Individual,Hot,Weekday,250.0,Medium,2024Q3
+West Bengal,Mumbai,15.0,2024-09-14,Morning,Drama,Blockbuster,180.0,141.70103092783506,128.51351351351352,8.315,No,247.02702702702703,Family,Hot,Weekday,270.2145444413486,Low,2024Q3
+Rajasthan,Jaipur,75.0,2024-09-15,Night,Comedy,Non-Blockbuster,202.3783783783784,80.0,128.51351351351352,8.315,No,247.02702702702703,Individual,Rainy,Weekend,208.51351351351352,Medium,2024Q3
+Telangana,Delhi,90.0,2024-09-16,Afternoon,Drama,Non-Blockbuster,202.3783783783784,150.0,128.51351351351352,10.0,Yes,250.0,Family,Normal,Weekday,278.51351351351354,Medium,2024Q3
+West Bengal,Bengaluru,26.0,2024-09-17,Afternoon,Comedy,Non-Blockbuster,250.0,120.0,60.0,5.0,No,247.02702702702703,Family,Hot,Weekday,180.0,High,2024Q3
+Gujarat,Chennai,18.0,2024-09-18,Morning,Action,Blockbuster,202.3783783783784,150.0,30.0,8.315,No,247.02702702702703,Individual,Normal,Weekday,180.0,Medium,2024Q3
+Rajasthan,Jaipur,21.0,2024-09-19,Afternoon,Romance,Blockbuster,250.0,200.0,100.0,5.0,No,250.0,Family,Hot,Weekday,300.0,High,2024Q3
+Telangana,Jaipur,4.0,2024-09-20,Morning,Drama,Blockbuster,202.3783783783784,200.0,260.0,15.0,No,400.0,Family,Hot,Weekday,460.0,Medium,2024Q3
+Kerala,Vijayawada,95.0,2024-09-21,Afternoon,Thriller,Blockbuster,120.0,80.0,128.51351351351352,15.0,No,250.0,Family,Hot,Weekday,208.51351351351352,Low,2024Q3
+Delhi,Chennai,79.0,2024-09-22,Afternoon,Action,Blockbuster,202.3783783783784,80.0,260.0,2.0,Yes,250.0,Family,Rainy,Weekday,340.0,Medium,2024Q3
+Karnataka,Chennai,85.0,2024-09-23,Morning,Action,Blockbuster,180.0,80.0,128.51351351351352,10.0,No,247.02702702702703,Family,Hot,Weekend,208.51351351351352,Low,2024Q3
+Maharashtra,Vijayawada,93.0,2024-09-24,Morning,Action,Non-Blockbuster,202.3783783783784,200.0,60.0,2.0,No,120.0,Family,Hot,Weekday,260.0,Medium,2024Q3
+Gujarat,Jaipur,64.0,2024-09-25,Night,Action,Non-Blockbuster,180.0,80.0,100.0,15.0,Yes,247.02702702702703,Family,Rainy,Weekend,180.0,Low,2024Q3
+West Bengal,Chennai,15.0,2024-09-26,Morning,Drama,Non-Blockbuster,250.0,141.70103092783506,30.0,2.0,Yes,120.0,Family,Normal,Weekday,171.70103092783506,High,2024Q3
+West Bengal,Bengaluru,94.0,2024-09-27,Morning,Thriller,Blockbuster,150.0,150.0,260.0,5.0,No,247.02702702702703,Family,Normal,Weekday,410.0,Low,2024Q3
+Rajasthan,Chennai,45.0,2024-09-28,Afternoon,Thriller,Non-Blockbuster,202.3783783783784,150.0,60.0,5.0,No,247.02702702702703,Family,Hot,Weekend,210.0,Medium,2024Q3
+Andhra Pradesh,Chennai,15.0,2024-09-29,Afternoon,Action,Blockbuster,202.3783783783784,141.70103092783506,30.0,8.315,Yes,250.0,Family,Hot,Weekend,171.70103092783506,Medium,2024Q3
+Maharashtra,Chennai,26.0,2024-09-30,Evening,Thriller,Non-Blockbuster,250.0,141.70103092783506,60.0,8.315,No,247.02702702702703,Individual,Hot,Weekday,201.70103092783506,High,2024Q3
+Telangana,Delhi,31.0,2024-10-01,Afternoon,Romance,Blockbuster,250.0,200.0,30.0,2.0,Yes,250.0,Individual,Normal,Weekday,230.0,High,2024Q4
+Andhra Pradesh,Vijayawada,59.0,2024-10-02,Night,Action,Non-Blockbuster,202.3783783783784,150.0,30.0,5.0,No,247.02702702702703,Individual,Normal,Weekday,180.0,Medium,2024Q4
+Kerala,Ahmedabad,88.0,2024-10-03,Morning,Drama,Blockbuster,202.3783783783784,141.70103092783506,30.0,2.0,No,247.02702702702703,Family,Rainy,Weekend,171.70103092783506,Medium,2024Q4
+West Bengal,Ahmedabad,48.0,2024-10-04,Morning,Thriller,Blockbuster,250.0,120.0,60.0,15.0,Yes,247.02702702702703,Family,Hot,Weekday,180.0,High,2024Q4
+Karnataka,Delhi,86.0,2024-10-05,Morning,Romance,Blockbuster,202.3783783783784,141.70103092783506,180.0,8.315,No,247.02702702702703,Family,Hot,Weekday,321.70103092783506,Medium,2024Q4
+Delhi,Hyderabad,88.0,2024-10-06,Morning,Action,Blockbuster,120.0,200.0,128.51351351351352,8.315,No,120.0,Family,Hot,Weekday,328.51351351351354,Low,2024Q4
+Rajasthan,Chennai,37.0,2024-10-07,Morning,Comedy,Blockbuster,120.0,120.0,30.0,10.0,Yes,250.0,Family,Hot,Weekend,150.0,Low,2024Q4
+West Bengal,Vijayawada,11.0,2024-10-08,Morning,Action,Blockbuster,300.0,141.70103092783506,180.0,10.0,Yes,247.02702702702703,Individual,Hot,Weekday,321.70103092783506,High,2024Q4
+Delhi,Kolkata,8.0,2024-10-09,Night,Drama,Blockbuster,202.3783783783784,80.0,260.0,8.315,No,247.02702702702703,Family,Rainy,Weekday,340.0,Medium,2024Q4
+West Bengal,Chennai,75.0,2024-10-10,Morning,Thriller,Non-Blockbuster,250.0,80.0,260.0,8.315,Yes,247.02702702702703,Family,Normal,Weekend,340.0,High,2024Q4
+Tamil Nadu,Kochi,15.0,2024-10-11,Morning,Action,Blockbuster,180.0,120.0,180.0,5.0,No,247.02702702702703,Family,Rainy,Weekend,300.0,Low,2024Q4
+Delhi,Jaipur,66.0,2024-10-12,Evening,Comedy,Blockbuster,150.0,141.70103092783506,100.0,8.315,No,250.0,Family,Normal,Weekday,241.70103092783506,Low,2024Q4
+West Bengal,Bengaluru,34.0,2024-10-13,Morning,Thriller,Blockbuster,202.3783783783784,200.0,60.0,8.315,No,250.0,Individual,Rainy,Weekend,260.0,Medium,2024Q4
+Telangana,Bengaluru,52.0,2024-10-14,Evening,Action,Non-Blockbuster,202.3783783783784,200.0,260.0,8.315,No,400.0,Family,Rainy,Weekday,460.0,Medium,2024Q4
+Telangana,Chennai,58.0,2024-10-15,Night,Comedy,Non-Blockbuster,202.3783783783784,141.70103092783506,60.0,8.315,No,247.02702702702703,Individual,Hot,Weekday,201.70103092783506,Medium,2024Q4
+Tamil Nadu,Hyderabad,52.0,2024-10-16,Morning,Action,Non-Blockbuster,180.0,141.70103092783506,30.0,5.0,No,400.0,Individual,Normal,Weekend,171.70103092783506,Low,2024Q4
+Gujarat,Hyderabad,29.0,2024-10-17,Morning,Action,Blockbuster,300.0,200.0,260.0,8.315,No,247.02702702702703,Family,Normal,Weekend,460.0,High,2024Q4
+Maharashtra,Ahmedabad,60.0,2024-10-18,Night,Comedy,Blockbuster,150.0,120.0,128.51351351351352,10.0,No,250.0,Individual,Hot,Weekday,248.51351351351352,Low,2024Q4
+Rajasthan,Chennai,78.0,2024-10-19,Night,Drama,Blockbuster,202.3783783783784,80.0,100.0,8.315,Yes,400.0,Family,Rainy,Weekend,180.0,Medium,2024Q4
+Tamil Nadu,Ahmedabad,68.0,2024-10-20,Night,Action,Blockbuster,300.0,120.0,128.51351351351352,2.0,Yes,250.0,Family,Hot,Weekend,248.51351351351352,High,2024Q4
+Tamil Nadu,Kolkata,88.0,2024-10-21,Night,Drama,Blockbuster,202.3783783783784,120.0,180.0,15.0,Yes,250.0,Individual,Hot,Weekday,300.0,Medium,2024Q4
+Rajasthan,Hyderabad,40.0,2024-10-22,Morning,Action,Blockbuster,150.0,150.0,180.0,8.315,Yes,120.0,Family,Hot,Weekday,330.0,Low,2024Q4
+Tamil Nadu,Ahmedabad,85.0,2024-10-23,Night,Action,Blockbuster,150.0,141.70103092783506,60.0,2.0,No,247.02702702702703,Family,Normal,Weekend,201.70103092783506,Low,2024Q4
+Kerala,Kolkata,23.0,2024-10-24,Morning,Drama,Non-Blockbuster,202.3783783783784,141.70103092783506,60.0,8.315,No,400.0,Family,Normal,Weekday,201.70103092783506,Medium,2024Q4
+Gujarat,Bengaluru,100.0,2024-10-25,Morning,Action,Non-Blockbuster,120.0,141.70103092783506,180.0,8.315,No,247.02702702702703,Individual,Normal,Weekday,321.70103092783506,Low,2024Q4
+Tamil Nadu,Delhi,30.0,2024-10-26,Night,Comedy,Non-Blockbuster,250.0,80.0,60.0,2.0,Yes,247.02702702702703,Family,Normal,Weekend,140.0,High,2024Q4
