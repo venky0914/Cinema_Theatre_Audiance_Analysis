@@ -100,3 +100,7 @@ Cinema-Theatres-Analysis/
 │   └── ticket_price_analysis.png
 │
 └── README.md
+
+
+##Output:
+C:\Users\abven\OneDrive\Pictures\Screenshots\Screenshot 2025-12-26 221020.png
